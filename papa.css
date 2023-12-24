@@ -1,0 +1,57 @@
+
+
+.h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    margin-left: 35%;
+    margin-top: 1%;
+}
+
+
+.h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+    margin-left: 38%;
+    border: none;
+    width: 800px;
+    margin-top: -30px;
+    margin-bottom: 3px;
+}
+
+
+
+
+html {
+    background: url(pa.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 50%;
+    overflow: auto;
+  }
+
+nav {
+    ul {
+        list-style-type: none;
+        margin-right: 4px;
+        padding: 0;
+        overflow: hidden;
+        background-color: #ebf1f5;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        padding: 14px 140px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #bdd5e365;
+      }
+      font-size: 17px;
+    }
+

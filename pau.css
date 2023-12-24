@@ -1,0 +1,58 @@
+
+
+.h2 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 50px;
+    margin-left: 35%;
+    margin-top: 1%;
+}
+
+
+.h3 {
+    font-family: 'Dancing Script', cursive;
+    font-size: 24px;
+    margin-left: 50%;
+    border: none;
+    width: 600px;
+    margin-top: -30px;
+    margin-bottom: 3px;
+}
+
+
+
+
+
+html {
+    background: url(au.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+  }
+
+nav {
+    ul {
+        list-style-type: none;
+        margin-right: 4px;
+        padding: 0;
+        overflow: hidden;
+        background-color: #b85b5b;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        color: rgb(255, 255, 255);
+        text-align: center;
+        padding: 14px 140px;
+        text-decoration: none;
+      }
+      
+      li a:hover {
+        background-color: #ab1818;
+      }
+      font-size: 17px;
+    }
+
